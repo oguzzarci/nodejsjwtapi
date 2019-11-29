@@ -1,7 +1,11 @@
-# nodejsjwtapi
-Simple JwtToken Api
+# nodejsjwtapi Simple JwtToken Api
+```sh
+npm install
+```
 
-# npm install
-# nodemon
+## Start 
+```sh
+nodemon
+```
 
 # POST : http://localhost:5000/api/login
